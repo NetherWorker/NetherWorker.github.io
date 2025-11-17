@@ -1,7 +1,7 @@
 <?php
 $client_id = 1440045455865282691;
 $client_secret = 'xIywv4gktoSKqmnabNnuLdT8k87EDTTj';
-$script_url = 'https://example.com/discord-connect.php'; // ссылка до вашего скрипта
+$script_url = 'NetherWorker.github.io/reg.php'; // ссылка до вашего скрипта
 // ссылки oauth и api discord
 $oauth_url = 'https://discord.com/api/oauth2/authorize';
 $token_url = 'https://discord.com/api/oauth2/token';
